@@ -1,0 +1,17 @@
+# Dados de video e artefatos experimentais
+*.yuv
+*.y4m
+*.mp4
+*.mkv
+*.mov
+*.jxs
+*.png
+*.csv
+*.log
+*.json
+*.zip
+*.exe
+*.dll
+*.stats
+*.mbtree
+ffmpeg2pass-*
